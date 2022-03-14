@@ -1,1 +1,0 @@
-var youtube = "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFdRWE9pdVFHMzRFS1kwR0hVNWxaS1ZSTVI2d3xBQ3Jtc0tsWXdma09jdV9aQ0JIem53ckY2RTlKXzJmOVh6YzFOWGM1aWlXS1k1R3EzaVROMi02aGtPRDNBOWJ5b3lzQmRHTEN2RDFGc2xPNlFyNzl6bGNzbWRDV1NkVi1LX184RVVvb0h4V2hRbVBFd0stMlRuNA&q=https%3A%2F%2Fexe.io%2F";
