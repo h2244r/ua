@@ -16,5 +16,6 @@ function hari() {
   var urls1 = ["6B4b","QdFGJxFz","DawbY","X2yxehDR","qYyF8","anHz16Rx","JXe2q","nqmbwd","wHkY98E","XLoC0qwx","irjNd4wE","Aw6Ito","P4hmYn","jC4xoo","lpXSeo","n8Nu","qz9pYnS","MjYNf5","YicT","sTkXcw8b","93Xo9FF","c4cpe","n3Rf","cUYaB","ZTlFJM8","k1AhH1Y","fO0z","rZpU","ntgXxPi","cxAYr","TfakHad","3Axgwxd","peQW","TZlVVV","nFItkJnz","REfTx18","p4GhqTDN","bKlvF3","gOou5kPM","Wc0DX","igJB","vs8GJqwH","9oIH","J1Dycm","aXBcddC4","cGos1CUi","3Vp13d","6v8yUfKM","FAHoU","4P7RWG7","3fj6KeQV","oysl","eqM5daO","O0dpPLN5","j3dYC","h3Xe","gl4NnDK","Wt0kS","3rUWm","hoZnX","xEvhx","hjKwLx","epBcsL1","vfEsql","ApEcrM","h94Pg","dWlNz","VAyII","bwoX","lJvDL","mNJ0xPQ","Pl1TvOWw","d9nGGxO","8PCOdv","t6btDKKV","LQIm","SmQMPTj","Lu0V"];
   var urls = shuffle(urls1)
   var random = Math.floor(Math.random()*urls.length);
-  window.location = (youtube + urls[random] + "&html_redirect=1");
+  var y = youtube.slice(0,5);
+  window.location = (y + urls[random] + "&html_redirect=1");
 }
