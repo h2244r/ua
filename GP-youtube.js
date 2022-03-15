@@ -1,1 +1,0 @@
-var youtube = "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2F1TUxRQzVEZkdwRUo4Q2dEbk9ZRTVlTDd4d3xBQ3Jtc0ttSnNmaVZYWGJ4cE5ZSEh4UmJrakJZMjNwaTdZOGJEMXQ4LXU4VjhESC1ucGoyekxmZDdEQ3p3MUdqbjZQUDc4SVZuY0FJM1lMUVZwT3BZSU9LUHpyTVExMlpOdTRaY2FORGswaWlMQW14OV9SdU81TQ&q=https%3A%2F%2Fgplinks.co%2F";
